@@ -1,5 +1,5 @@
 <h1>CryptoPlace</h1>
-<p>To preview the <a href="https://veerasiva123.github.io/CryptoPlace//">website</a></p>
+<p>To preview the <a href="https://veerasiva123.github.io/CryptoPlace/">website</a></p>
 
 
 # React + Vite
