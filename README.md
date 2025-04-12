@@ -1,3 +1,7 @@
+<h1>CryptoPlace</h1>
+<p>To preview the <a href="https://veerasiva123.github.io/CryptoPlace/">website</a></p>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
